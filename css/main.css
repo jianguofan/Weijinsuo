@@ -1,0 +1,20 @@
+/**
+ * 公共样式
+ * */
+body{
+    font-family: "Helvetica Neue","Helvetica","Microsoft Yahei"
+}
+/**
+    头部样式
+*/
+#header{
+    height: 200px;
+}
+#header >.topbar{
+    height: 40px;
+    border-bottom: 1px solid #c0c0c0;
+}
+#header > .topbar >.container{
+    background-color: #1b6d85;
+    height: 40px;
+}
